@@ -17,9 +17,12 @@ This media content has been assembled together in a prototype of an interactive 
 
 ## Usage
 
-Run `index.html` in your favorite web browser and use left/right arrows to navigate between comic book frames.
+Clone the repository and run `index.html` in your favorite web browser and use left/right arrows to navigate between comic book frames.
 
 This version is optimized for offline usage: pictures with a resolution of 1600x900 px and sounds in wav format.
+
+This can be tried online (but will be very slow!): 
+https://rawgit.com/eNTERFACE14Auracle/AuracleNYC2123Issue1/master/index.html
 
 ## License
 
